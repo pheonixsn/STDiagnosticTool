@@ -1,0 +1,28 @@
+enacode: 0
+name: vana1
+zones start...
+zone 0: valid(1)
+name: vzone1
+enable: 1
+level: 3
+[ANALYST_TYPE]=0
+ANALYST_SMOKE=1
+[ANALYST_PARAMETER]=0
+[SMOKE]=0
+SMOKE_SENS=90
+SMOKE_MIN_REGION=10
+zone end
+zone 1: valid(0)
+zone end
+zone 2: valid(0)
+zone end
+zone 3: valid(0)
+zone end
+zone 4: valid(0)
+zone end
+zone 5: valid(0)
+zone end
+zone 6: valid(0)
+zone end
+zone 7: valid(0)
+zone end

@@ -1,0 +1,32 @@
+
+#ifndef _ALGOVSD_DEBUGINFO_H_
+#define _ALGOVSD_DEBUGINFO_H_
+
+#include "AlgoVA_Common.h"
+#include "AlgoVA_DebugInfo.h"
+
+
+#ifdef __cplusplus
+extern "C"
+{
+#endif
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////
+// 调试信息数据类型
+
+typedef struct 
+{
+	VADEBUGINFO vainfo;
+} VSDDEBUGINFO;
+
+// 调试信息数据类型
+///////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+#ifdef __cplusplus
+}
+#endif
+
+
+#endif

@@ -1,0 +1,35 @@
+
+#ifndef _ALGOVSD_FUNCODE_H_
+#define _ALGOVSD_FUNCODE_H_
+
+#include "AlgoVA_Funcode.h"
+#include "AlgoVSD_Common.h"
+
+
+#ifdef __cplusplus
+extern "C"
+{
+#endif
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////
+// 视频分析功能码
+
+enum
+{
+	VA_FUNC_SMOKE			= 0x20000000	// 烟雾
+};
+
+// 视频分析功能码
+///////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+#ifdef __cplusplus
+}
+#endif
+
+
+#endif
+
+
+

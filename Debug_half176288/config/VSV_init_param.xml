@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<root>
+  <init version="1.00.00" img_type="YUV" img_hres="352" img_vres="288" channel_info="camera 1" nb_presets="4"/>
+<preset id="1">
+  <adv_param id="3001" value="2" nb_digits="1" nb_decimals="0" boundary_low="1" boundary_high="3" def_description="Sensitivity (1: Low, 2: Normal, 3: High)"/>
+  <adv_param id="3002" value="2" nb_digits="2" nb_decimals="0" boundary_low="1" boundary_high="10" def_description="PTZ Positioning Time (Sec.)"/>
+  <adv_param id="3003" value="1" nb_digits="1" nb_decimals="0" boundary_low="1" boundary_high="2" def_description="Field of View (FOV) (1: ¡Ü40m depth, 2: >40m)"/>
+  <adv_param id="3004" value="1" nb_digits="1" nb_decimals="0" boundary_low="0" boundary_high="1" def_description="Saturated Smoke Detection Mode (0: Disabled, 1: Enabled)"/>
+</preset>
+<preset id="2">
+  <adv_param id="3001" value="2" nb_digits="1" nb_decimals="0" boundary_low="1" boundary_high="3" def_description="Sensitivity (1: Low, 2: Normal, 3: High)"/>
+  <adv_param id="3002" value="2" nb_digits="2" nb_decimals="0" boundary_low="1" boundary_high="10" def_description="PTZ Positioning Time (Sec.)"/>
+  <adv_param id="3003" value="1" nb_digits="1" nb_decimals="0" boundary_low="1" boundary_high="2" def_description="Field of View (FOV) (1: ¡Ü40m depth, 2: >40m)"/>
+  <adv_param id="3004" value="1" nb_digits="1" nb_decimals="0" boundary_low="0" boundary_high="1" def_description="Saturated Smoke Detection Mode (0: Disabled, 1: Enabled)"/>
+</preset>
+<preset id="3">
+  <adv_param id="3001" value="2" nb_digits="1" nb_decimals="0" boundary_low="1" boundary_high="3" def_description="Sensitivity (1: Low, 2: Normal, 3: High)"/>
+  <adv_param id="3002" value="2" nb_digits="2" nb_decimals="0" boundary_low="1" boundary_high="10" def_description="PTZ Positioning Time (Sec.)"/>
+  <adv_param id="3003" value="1" nb_digits="1" nb_decimals="0" boundary_low="1" boundary_high="2" def_description="Field of View (FOV) (1: ¡Ü40m depth, 2: >40m)"/>
+  <adv_param id="3004" value="1" nb_digits="1" nb_decimals="0" boundary_low="0" boundary_high="1" def_description="Saturated Smoke Detection Mode (0: Disabled, 1: Enabled)"/>
+</preset>
+<preset id="4">
+  <adv_param id="3001" value="2" nb_digits="1" nb_decimals="0" boundary_low="1" boundary_high="3" def_description="Sensitivity (1: Low, 2: Normal, 3: High)"/>
+  <adv_param id="3002" value="2" nb_digits="2" nb_decimals="0" boundary_low="1" boundary_high="10" def_description="PTZ Positioning Time (Sec.)"/>
+  <adv_param id="3003" value="1" nb_digits="1" nb_decimals="0" boundary_low="1" boundary_high="2" def_description="Field of View (FOV) (1: ¡Ü40m depth, 2: >40m)"/>
+  <adv_param id="3004" value="1" nb_digits="1" nb_decimals="0" boundary_low="0" boundary_high="1" def_description="Saturated Smoke Detection Mode (0: Disabled, 1: Enabled)"/>
+</preset>
+</root>

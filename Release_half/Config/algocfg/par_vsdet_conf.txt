@@ -1,0 +1,20 @@
+smoke_type 2;
+smoke_interval 18;
+smoke_comdeg 8;
+
+smoke_sensitivity 80;
+smoke_min 24;
+
+smoke_enable_subp 1;
+
+smoke_ind_ortang 40;
+smoke_ind_adddiff 50;
+smoke_ind_offset 100;
+smoke_ind_optlevel 170;
+smoke_ind_optintensity 2;
+
+smoke_ind_bk_inter	50;   0: disabled
+smoke_ind_bk_w			50
+smoke_ind_bk_thrld	210
+
+
